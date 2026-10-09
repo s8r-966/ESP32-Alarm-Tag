@@ -75,11 +75,11 @@ ESP32_Alarm_Tag/
 ├── README.md
 ├── LICENSE
 ├── .gitignore
-├── code/
+├── Code/
 │   └── ESP32_ALARM_TAG.ino
 ├── circuit/
 │   └── circuit.png
-└── enclosure/
+└── 3d_box/
     └── Smooth Snaget.stl
 ```
 
