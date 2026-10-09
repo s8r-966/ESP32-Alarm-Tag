@@ -1,0 +1,80 @@
+═══════════════════════════════════════════════════════════════════
+ESP32 Alarm Tag — Licensing Information
+Copyright (c) 2026 S8R — All Rights Reserved
+═══════════════════════════════════════════════════════════════════
+
+هذا المشروع يحتوي على جزأين: البرمجيات (الكود) والهاردوير (التصميم).
+كل جزء له رخصته الخاصة.
+
+This project contains two parts: Software (code) and Hardware (design).
+Each part has its own license.
+
+───────────────────────────────────────────────────────────────────
+PART 1: SOFTWARE LICENSE — MIT License
+الجزء الأول: رخصة البرمجيات — رخصة MIT
+───────────────────────────────────────────────────────────────────
+
+Copyright (c) 2026 S8R
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+───────────────────────────────────────────────────────────────────
+PART 2: HARDWARE LICENSE — CERN-OHL-P v2
+الجزء الثاني: رخصة الهاردوير — CERN-OHL-P v2
+───────────────────────────────────────────────────────────────────
+
+Copyright (c) 2026 S8R
+
+This hardware design (including the STL file and any associated documentation)
+is licensed under the CERN Open Hardware Licence Version 2 - Permissive
+(CERN-OHL-P v2).
+
+يُسمح باستخدام هذا التصميم ودراسته وتعديله وتوزيعه لأي غرض، بشرط الاحتفاظ
+بهذا الإشعار وحقوق النشر.
+
+You may use, study, modify, and distribute this design for any purpose,
+provided that you retain this notice and the associated copyright.
+
+For the full license text, visit:
+للاطلاع على النص الكامل للرخصة:
+https://ohwr.org/cern_ohl_p_v2.txt
+
+───────────────────────────────────────────────────────────────────
+COPYRIGHT NOTICE | إشعار حقوق النشر
+───────────────────────────────────────────────────────────────────
+
+جميع الحقوق محفوظة للمطور الأصلي: S8R © 2026
+
+All rights reserved to the original developer: S8R © 2026
+
+✅ المسموح | Permitted:
+   - الاستخدام الشخصي | Personal use
+   - التعديل والتطوير | Modification & development
+   - النشر مفتوح المصدر | Open-source distribution
+   - ذكر المؤلف في أي نسخة | Attribution required
+
+❌ الممنوع | Prohibited:
+   - الاستخدام التجاري من قبل الآخرين | Commercial use by others
+   - إزالة اسم المؤلف | Removing author's name
+   - إعادة الترخيص برخصة أخرى | Re-licensing under other terms
+
+💼 للترخيص التجاري | For commercial licensing:
+   Contact: S8R
+
+═══════════════════════════════════════════════════════════════════

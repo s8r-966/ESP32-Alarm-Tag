@@ -1,0 +1,36 @@
+# ========== Arduino / PlatformIO ==========
+.pio/
+.pioenvs/
+.piolibdeps/
+build/
+*.hex
+*.elf
+*.bin
+*.map
+
+# ========== OS Files ==========
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# ========== IDE ==========
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ========== Temp & Logs ==========
+*.tmp
+*.temp
+*.log
+*.bak
+*.old
+
+# ========== Secrets (مهم!) ==========
+*.env
+secrets.h
+config.local.*
